@@ -6,7 +6,7 @@ inputs:
     required: true
     default: 'World'
 outputs:
-  answer: # id of output
+  something: # id of output
     description: 'The answer to everything (always 42)'
 runs:
   using: 'docker'
